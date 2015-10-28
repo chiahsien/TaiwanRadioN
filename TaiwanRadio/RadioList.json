@@ -1,0 +1,952 @@
+[
+    {
+    "channel_id" : "248",
+    "channel_image" : "14a7b49e66600000aa52.jpg",
+    "channel_title" : "AppleLine 蘋果線上",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "新歌勁碟",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "295",
+    "channel_image" : "14a7b52692d000009a0d.jpg",
+    "channel_title" : "ASIAFM 亞太電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "動感亞太",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "210",
+    "channel_image" : "14ab8f933ca00000842b.jpg",
+    "channel_title" : "ASIAFM 亞洲電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "動感亞洲",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "321",
+    "channel_image" : "14a7b5e37ff00000b16c.jpg",
+    "channel_title" : "ASIAFM 衛星音樂台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "Fun Music音樂好好玩",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "1170",
+    "channel_image" : "14a7b71e9440000079e0.jpg",
+    "channel_title" : "BestRadio 南方之音",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "有緣來作夥(麗華)",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "211",
+    "channel_image" : "14a7b3dc24800000c193.jpg",
+    "channel_title" : "BestRadio 台中好事",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "整點新聞",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "212",
+    "channel_image" : "14a7b3e87e4000005f35.jpg",
+    "channel_title" : "BestRadio 台北好事",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "989陽光列車",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "303",
+    "channel_image" : "14a7b54fe500000057d3.jpg",
+    "channel_title" : "BestRadio 花蓮好事",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "晴山韻樂",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "213",
+    "channel_image" : "14a7b3f33e100000664a.jpg",
+    "channel_title" : "BestRadio 高雄港都",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "港都生活館(阿弘)",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "1001",
+    "channel_image" : "14abcf14cd1000006b4d.jpg",
+    "channel_title" : "BravoFM 台北都會音樂台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "Bravo音樂網",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "229",
+    "channel_image" : "14b0176e70b00000693e.jpg",
+    "channel_title" : "City FM 城市廣播網-台北健康",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "日安901 DJ FIONA",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "226",
+    "channel_image" : "14b01769abf00000a3a4.jpg",
+    "channel_title" : "City FM 城市廣播網-城市廣播",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "城市打勾勾 DJ Fiona",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "228",
+    "channel_image" : "14b2559d18a000006421.jpg",
+    "channel_title" : "Classical Taiwan愛樂電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "早安•愛樂！",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "1120",
+    "channel_image" : "14a7b6f35f1000004047.jpg",
+    "channel_title" : "Classical 台中古典音樂台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "梵谷向日葵（EMMA）",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "357",
+    "channel_image" : "14a7b61ca530000014c5.jpg",
+    "channel_title" : "Flyradio 飛揚調頻",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "神采飛揚",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "222",
+    "channel_image" : "14abcde694d00000b2fc.jpg",
+    "channel_title" : "HitFm聯播網 Taipei 北部",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "活力 DJ",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "88",
+    "channel_image" : "14efb954e8f00000abd4.png",
+    "channel_title" : "HitFm聯播網 中部",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "活力 DJ",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "90",
+    "channel_image" : "14efb959819000009522.png",
+    "channel_title" : "HitFm聯播網 南部",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "活力 DJ",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "301",
+    "channel_image" : "14efb95ec7d00000b313.png",
+    "channel_title" : "HitFm聯播網 宜蘭",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "活力 DJ",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "177",
+    "channel_image" : "14a7b27acde00000121b.jpg",
+    "channel_title" : "ICRT",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "The Morning Show",
+    "radio_type" : "5"
+    },
+    {
+    "channel_id" : "148",
+    "channel_image" : "14a7b223e96000004ca2.jpg",
+    "channel_title" : "IC之音",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "旋律輕輕唱",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "160",
+    "channel_image" : "14a7b25159a00000359f.jpg",
+    "channel_title" : "igo 531",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "531實在有味",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "238",
+    "channel_image" : "14a7b484c60000000b95.jpg",
+    "channel_title" : "KISS RADIO 南投廣播",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "節目試播",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "156",
+    "channel_image" : "14a7b23f952000001965.jpg",
+    "channel_title" : "KISS RADIO 大眾廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "音樂廣角鏡",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "308",
+    "channel_image" : "14a7b55cf1a00000c02b.jpg",
+    "channel_title" : "KISS RADIO 網路音樂台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "就愛R&B",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "1060",
+    "channel_image" : "14a7b68650f00000bca5.jpg",
+    "channel_title" : "needs RADIO",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "愛的生活家(良慧)-首播",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1472",
+    "channel_image" : "14a7b77933a000006504.jpg",
+    "channel_title" : "NER教育電臺 彰化分臺FM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1473",
+    "channel_image" : "14a7b780d5e00000144a.jpg",
+    "channel_title" : "NER教育電臺 臺中AM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "樂活ING",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1471",
+    "channel_image" : "14a7b76cf9c00000340a.jpg",
+    "channel_title" : "NER教育電臺 臺北總臺AM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "德語教學",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1470",
+    "channel_image" : "14a7b7671c1000004c3a.jpg",
+    "channel_title" : "NER教育電臺 臺北總臺FM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "生活In Design(下)",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1477",
+    "channel_image" : "14a7b79e155000003ff6.jpg",
+    "channel_title" : "NER教育電臺 臺東分臺FM-1",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "生活In Design(下)",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1478",
+    "channel_image" : "14a7b7a38d600000aea9.jpg",
+    "channel_title" : "NER教育電臺 臺東分臺FM-2",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "娜路灣之歌",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1475",
+    "channel_image" : "14a7b790ae5000009d47.jpg",
+    "channel_title" : "NER教育電臺 花蓮分臺FM-1",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "太平洋線上Pacific On Line",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1476",
+    "channel_image" : "14a7b794eea0000030f9.jpg",
+    "channel_title" : "NER教育電臺 花蓮分臺FM-2",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "生活In Design(下)",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1474",
+    "channel_image" : "14a7b78859d000000f2e.jpg",
+    "channel_title" : "NER教育電臺 高雄分臺FM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "教育大不同",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "187",
+    "channel_image" : "14a7b2864cc000003b8a.jpg",
+    "channel_title" : "NEWS98新聞網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "新聞+世界一把抓:李永萍時間（李永萍）",
+    "radio_type" : "3"
+    },
+    {
+    "channel_id" : "1391",
+    "channel_image" : "14ab917a53900000193b.jpg",
+    "channel_title" : "Plus Radio",
+    "isChannel" : true,
+    "isCollect" : false,
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "370",
+    "channel_image" : "14a7b62ae160000062fd.jpg",
+    "channel_title" : "POP Radio 台北流行廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "音樂911",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1490",
+    "channel_image" : "14a7b7b95fd000007117.jpg",
+    "channel_title" : "Pulse FM心動音樂電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "活力繽紛樂",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "312",
+    "channel_image" : "14abce24333000001773.jpg",
+    "channel_title" : "RTI央廣 FM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "RTI央廣 音樂",
+    "radio_type" : "5"
+    },
+    {
+    "channel_id" : "311",
+    "channel_image" : "14a7b56f29f000007988.jpg",
+    "channel_title" : "RTI央廣 亞洲頻道",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "泰語 A",
+    "radio_type" : "5"
+    },
+    {
+    "channel_id" : "315",
+    "channel_image" : "14a7b5b0152000003293.jpg",
+    "channel_title" : "RTI央廣 國語",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "央廣部落格",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "314",
+    "channel_image" : "14a7b59e00400000256e.jpg",
+    "channel_title" : "RTI央廣 歐美及方言",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "德語",
+    "radio_type" : "5"
+    },
+    {
+    "channel_id" : "313",
+    "channel_image" : "14a7b5942b800000b12f.jpg",
+    "channel_title" : "RTI央廣 音樂",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "現場互動時間(重播)(張雅蓓、胡聖瑋)",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "1430",
+    "channel_image" : "14ab91a8dc0000006792.jpg",
+    "channel_title" : "Stars RADIO 星蹤之愛廣播網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "靈泉心聲(余樂)-首播",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "282",
+    "channel_image" : "14a7b4e62e1000008ef8.jpg",
+    "channel_title" : "uni radio 環宇電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "音樂好朋友",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "215",
+    "channel_image" : "14b15f10c94000002889.jpg",
+    "channel_title" : "VOH 漢聲廣播電臺 AM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "資訊櫥窗",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "216",
+    "channel_image" : "14b15f13f88000006add.jpg",
+    "channel_title" : "VOH 漢聲廣播電臺 FM",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "資訊櫥窗",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1205",
+    "channel_image" : "14a7b72a63a000008b7c.jpg",
+    "channel_title" : "WowRadio文藻網路音樂台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "音樂",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "162",
+    "channel_image" : "14a7b262b54000004d53.jpg",
+    "channel_title" : "中廣寶島網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "四神湯",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "207",
+    "channel_image" : "14a7b2e5197000008abe.jpg",
+    "channel_title" : "中廣新聞網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "整點新聞",
+    "radio_type" : "3"
+    },
+    {
+    "channel_id" : "205",
+    "channel_image" : "14a7b2c669f0000097ec.jpg",
+    "channel_title" : "中廣流行網 i like",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "幸福好時光",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "206",
+    "channel_image" : "14a7b2d1c1f0000043fc.jpg",
+    "channel_title" : "中廣音樂網i radio",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "i 上線",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "340",
+    "channel_image" : "14df524c6850000047c0.jpg",
+    "channel_title" : "佳音現代聖樂網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "250",
+    "channel_image" : "14ab9397095000005ae3.jpg",
+    "channel_title" : "佳音經典音樂網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "201",
+    "channel_image" : "14a7b2acfa70000014de.jpg",
+    "channel_title" : "佳音電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "佳音電台節目",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "281",
+    "channel_image" : "14a7b4da3bc00000b164.jpg",
+    "channel_title" : "光華網 中波",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "開播詞",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "309",
+    "channel_image" : "14a7b5672080000062ba.jpg",
+    "channel_title" : "光華網 短波",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "開播詞",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "202",
+    "channel_image" : "14a7b2ba83000000c28d.jpg",
+    "channel_title" : "全國廣播",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "生活AGOGO",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1143",
+    "channel_image" : "14a7b712aa60000056e3.jpg",
+    "channel_title" : "古都電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "美麗人生(淑君)",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1559",
+    "channel_image" : "1501c443669000002739.jpg",
+    "channel_title" : "台中廣播",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "快樂家庭",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1080",
+    "channel_image" : "14a7f6b7d4a000002c34.jpg",
+    "channel_title" : "台灣之聲",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "台灣之聲試播(本頻道無節目表)",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "109",
+    "channel_image" : "14a7b212625000003d2d.jpg",
+    "channel_title" : "大千電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "輕鬆 EveryDay",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "325",
+    "channel_image" : "14a7b5ec2830000039d4.jpg",
+    "channel_title" : "大愛網路電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "LIVE–大愛Talk Show",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "300",
+    "channel_image" : "14ab932e39800000b250.jpg",
+    "channel_title" : "大漢之音",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "快樂人生-主持人俊明、方琪",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "289",
+    "channel_image" : "14a7b51010c000000c62.jpg",
+    "channel_title" : "太陽電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "音樂哈瓦那",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "294",
+    "channel_image" : "14a85351f18000000380.gif",
+    "channel_title" : "奇美古典音樂網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "奇美電台節目",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "241",
+    "channel_image" : "14efb96484a0000016f7.jpg",
+    "channel_title" : "寶島客家廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "客話之美(永定腔)  余惠蓮+鄒欣穎+鄒宜庭",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "259",
+    "channel_image" : "14a7b4cf553000000b9c.jpg",
+    "channel_title" : "寶島新聲廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "寶島尚耐操",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1550",
+    "channel_image" : "14a7b80ca340000097d7.jpg",
+    "channel_title" : "寶島聯播網 花蓮希望之聲",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "農民放送頭<蔡麗芬主持>",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1555",
+    "channel_image" : "14efb698f6800000b3f7.jpg",
+    "channel_title" : "寶島聯播網 雲嘉嘉義之音",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "音樂廣場",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1250",
+    "channel_image" : "14a7b73ddd5000004db7.jpg",
+    "channel_title" : "寶島聯播網 高雄主人電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "寶島尚耐操",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "288",
+    "channel_image" : "14a7b4ff78f0000018a6.jpg",
+    "channel_title" : "復興廣播電台 短波網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "生活茶坊",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "286",
+    "channel_image" : "14a7b4ee72700000ab69.jpg",
+    "channel_title" : "復興廣播電台 第一網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "海岸櫥窗",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "287",
+    "channel_image" : "14a7b4f7233000005eae.jpg",
+    "channel_title" : "復興廣播電台 第二網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "兩岸櫥窗",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1140",
+    "channel_image" : "14a7b6fbc30000003456.jpg",
+    "channel_title" : "快樂聯播網－台北",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "起造台灣新時代",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1141",
+    "channel_image" : "14a9f1279b3000000894.jpg",
+    "channel_title" : "快樂聯播網－嘉義",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "起造台灣新時代",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1142",
+    "channel_image" : "14a7b70b3700000099b3.jpg",
+    "channel_title" : "快樂聯播網－高雄",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "起造台灣新時代",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1479",
+    "channel_image" : "14a7b7af4de000004a70.jpg",
+    "channel_title" : "成功廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "歌友俱樂部",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1350",
+    "channel_image" : "14a7b75271e000005c0e.jpg",
+    "channel_title" : "新北客radio網路電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "客話之美(永定腔)  余惠蓮+鄒欣穎+鄒宜庭",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "254",
+    "channel_image" : "14a7b4c307e0000084a1.jpg",
+    "channel_title" : "新客家廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "青春歡樂派  小古",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1558",
+    "channel_image" : "1502622ad020000077a2.jpg",
+    "channel_title" : "曾文溪廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "迷人歌聲(小玉主持)",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1020",
+    "channel_image" : "14a7b64ea380000065e2.jpg",
+    "channel_title" : "正義電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "快樂來相會",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "198",
+    "channel_image" : "14a7b2973ab000000d0e.jpg",
+    "channel_title" : "正聲 台北調頻台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "元氣好時光",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "317",
+    "channel_image" : "14a7b7d6beb0000061e4.jpg",
+    "channel_title" : "正聲綜合台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "台灣我愛你",
+    "radio_type" : "4"
+    },
+    {
+    "channel_id" : "1270",
+    "channel_image" : "14ab9157d9300000a5ac.jpg",
+    "channel_title" : "正聲音樂派",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "台灣我愛你",
+    "radio_type" : "1"
+    },
+    {
+    "channel_id" : "1553",
+    "channel_image" : "14cdf1bfc15000006a6f.jpg",
+    "channel_title" : "益世廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "愛的呼聲",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "217",
+    "channel_image" : "14a7b427a180000019ca.jpg",
+    "channel_title" : "真心之音廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "真心之音電台節目",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1557",
+    "channel_image" : "14f924e8fdd0000063b9.gif",
+    "channel_title" : "神農廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "快樂人生",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1552",
+    "channel_image" : "14c2580a18d000000a9e.jpg",
+    "channel_title" : "綠色和平電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "台灣鄉土情(游小鳳 、林青豐)",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1556",
+    "channel_image" : "14f81da20e400000a40d.jpg",
+    "channel_title" : "臺北廣播電臺 HO HI YAN原住民專屬頻道",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "那魯灣之歌/李明德",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "208",
+    "channel_image" : "14efb70a679000004003.jpg",
+    "channel_title" : "臺北廣播電臺 都會資訊頻道",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "臺北好幸福/偉華",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "1554",
+    "channel_image" : "14d65131bb700000807f.JPG",
+    "channel_title" : "苗栗客家文化廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "音樂天地",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1100",
+    "channel_image" : "14a7b6a602a000003768.jpg",
+    "channel_title" : "警廣 全國交通網",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<琇如十時樂>>(琇如)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1106",
+    "channel_image" : "14a7b6d732c00000a72a.jpg",
+    "channel_title" : "警廣 宜蘭分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<惠玉報一報>>(惠玉)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1102",
+    "channel_image" : "14a7b6b7220000005f6c.jpg",
+    "channel_title" : "警廣 新竹分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<快樂筆記本>>(徐海倫)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1103",
+    "channel_image" : "14a7b6be11a00000bcb1.jpg",
+    "channel_title" : "警廣 臺中分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<輕鬆上場>> (鄭晴)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1101",
+    "channel_image" : "14a7b6ae57c000009ba7.jpg",
+    "channel_title" : "警廣 臺北分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<徐梅時間>>(徐梅)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1104",
+    "channel_image" : "14a7b6c581d000008120.jpg",
+    "channel_title" : "警廣 臺南分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<暢遊世界>>(明芬)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1108",
+    "channel_image" : "14a7b6e5ed00000004d6.jpg",
+    "channel_title" : "警廣 臺東分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<十點強強滾>> (錦璁)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1107",
+    "channel_image" : "14a7b6ded6f000000549.jpg",
+    "channel_title" : "警廣 花蓮分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<幸福列車長>>(紹妏)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "1105",
+    "channel_image" : "14a7b6cd34100000105e.jpg",
+    "channel_title" : "警廣 高雄分臺",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "<<警廣路透社>>(舜平)",
+    "radio_type" : "7"
+    },
+    {
+    "channel_id" : "356",
+    "channel_image" : "1501bb7e00100000a3d6.jpg",
+    "channel_title" : "青春線上",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "快樂來相會",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "1040",
+    "channel_image" : "14a7b65766e00000b045.jpg",
+    "channel_title" : "非凡音電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "一期一會（沐華）",
+    "radio_type" : "6"
+    },
+    {
+    "channel_id" : "232",
+    "channel_image" : "14a7b479ea1000007ad1.jpg",
+    "channel_title" : "飛碟電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "好男好女過日子（侯昌明+蔡燦得）",
+    "radio_type" : "2"
+    },
+    {
+    "channel_id" : "298",
+    "channel_image" : "14a7b52fb8a000008a10.jpg",
+    "channel_title" : "高屏溪客家廣播電台",
+    "isChannel" : true,
+    "isCollect" : false,
+    "program_name" : "春風歌聲（志明）",
+    "radio_type" : "6"
+    }
+]

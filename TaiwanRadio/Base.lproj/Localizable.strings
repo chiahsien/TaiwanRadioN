@@ -1,0 +1,15 @@
+// Radio playing
+"Radio-Playing" = "Playing...";
+
+// Radio paused
+"Radio-Paused" = "Paused";
+
+// Radio buffering
+"Radio-Buffering" = "Buffering...";
+
+// Radio error
+"Radio-Error" = "Error";
+
+// No radio selected
+"Radio-Unselected" = "No radio selected";
+

@@ -1,0 +1,15 @@
+// Radio playing
+"Radio-Playing" = "播放中...";
+
+// Radio paused
+"Radio-Paused" = "暫停中";
+
+// Radio buffering
+"Radio-Buffering" = "緩衝中...";
+
+// Radio error
+"Radio-Error" = "發生錯誤";
+
+// No radio selected
+"Radio-Unselected" = "未選擇電台";
+
