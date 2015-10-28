@@ -29,7 +29,7 @@ TaiwanRadioN 沒使用任何 3rd Library, 所以連 CocoaPods 都移除了.
 2. [Xcode][7] 7.0 之後的版本
 
 
-之後下載 TaiwanRadioN, 再照著 [教學][8] 便可以把 TaiwanRadioN 安裝至你的 iPhone.
+之後 [下載][10] TaiwanRadioN, 再照著 [教學][8] 便可以把 TaiwanRadioN 安裝至你的 iPhone.
 
 
 ## LICENSE
@@ -44,3 +44,4 @@ TaiwanRadioN 沒使用任何 3rd Library, 所以連 CocoaPods 都移除了.
 [7]: https://developer.apple.com/xcode/download/ "xcode"
 [8]: http://www.dycksir.com/2015/10/10/Launching-Your-App-on-Devices-Xcode-7-without-certificate/ "教學"
 [9]: LICENSE "LICENSE"
+[10]: https://github.com/shinrenpan/TaiwanRadioN/archive/master.zip "下載"
